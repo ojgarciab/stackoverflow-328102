@@ -1,5 +1,5 @@
 <?php
-require __DIR__.'/vendor/autoload.php';
+require __DIR__.'/../vendor/autoload.php';
 
 $html2pdf = new Spipu\Html2Pdf\Html2Pdf('P', 'A4', 'es');
 $content = '
