@@ -1,6 +1,6 @@
 ports:
 - port: 8001
-  onOpen: open-preview
+  onOpen: open-browser
 tasks:
 - name: Terminal
   command: >
